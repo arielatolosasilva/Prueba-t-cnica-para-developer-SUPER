@@ -8,4 +8,5 @@ abrir = nro_anillos_abierto*costo_abrir;
 cerrar = nro_anillos_cerrados * costo_cerrar;
 alert(abrir+cerrar);
 }
+
 costo_anillos();
